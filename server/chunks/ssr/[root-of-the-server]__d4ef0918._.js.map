@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/rosyi/saka-bhayangkara-dashboard/saka-bhayangkara-dashboard/app/page.tsx"],"sourcesContent":["// app/page.tsx\nimport { redirect } from \"next/navigation\";\n\nexport default function Home() {\n  redirect(\"/fonts/manager/dashboard\");\n\n  return null; }"],"names":[],"mappings":"AAAA,eAAe;;;;;AACf;AAAA;;AAEe,SAAS;IACtB,IAAA,yQAAQ,EAAC;IAET,OAAO;AAAM","debugId":null}}]
+}
